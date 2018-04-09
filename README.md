@@ -17,3 +17,7 @@ On Linux:
 To Stop:
 
 	- docker-compose down
+
+---
+
+Please add a star if this was useful.
